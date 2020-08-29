@@ -23,6 +23,8 @@ export default function WordCard(props){
 
     const [state, setState] = useState(prepareStateFromWord(props.value))
 
+    ans = props.value
+    
     const activationHandler = c => { 
         console.log(`${c} has been activated.`) 
 

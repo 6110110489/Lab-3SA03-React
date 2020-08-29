@@ -4,16 +4,16 @@
     text-align: center;
     width: 3em;
     font-size: 2em;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.404);
     margin: 1em;
     user-select: none;
-    background-color: rgb(253, 208, 176);
+    background-color: rgb(22, 140, 236);
     
 }
 
 .activeCard {
-    color: red;
-    background: pink;
+    color: rgb(17, 146, 34);
+    background: rgb(101, 255, 170);
     
 }
 
